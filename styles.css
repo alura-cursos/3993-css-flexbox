@@ -1,20 +1,4 @@
-/**
- *
- * Precisamos padronizar os espaçamentos: https://nordhealth.design/tokens/#space
- * a ideia é padronizar espaçamentos, tamannhos de fonte, line height, tudo em variáveis - controlando as quantidade de variantes como se fosse a propria TVA e evitar tamanhos de fontes expalhados e desproporcionais 
- *
- * Sobre o flex-direction, será que poderiamos usar um row-reverse ou column-reverse (de repente no mobile)?
- *
- * Esse artigo poderia entrar num PS+ ou algo assim: https://www.alura.com.br/artigos/css-guia-do-flexbox
- * 
- * Lembrar de: explicar o baseline e o strech do align-items
- *
- * Faltou falar sobre flex flow: https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-flow
- * Faltou o align-content (para multiplas rows ou columns, dependendo do flex-direction) https://developer.mozilla.org/en-US/docs/Web/CSS/align-content
- * Faltou o flex-shrink https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink
- * Faltou o flex-basis https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis
- *
- */
+
 
 :root {
     --cor-texto: #1e1e1e;

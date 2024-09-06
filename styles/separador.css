@@ -1,0 +1,7 @@
+.separador {
+    height: 4rem;
+    background-image: url("../images/tarjeta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+}
